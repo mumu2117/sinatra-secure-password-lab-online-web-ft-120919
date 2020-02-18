@@ -112,6 +112,8 @@ DEPENDENCIES
   rspec
   shotgun
   sinatra
+  sinatra-strong-params (0.1.0)
+      sinatra (>= 1.4.0)
   sinatra-activerecord
   sqlite3 (~> 1.3.6)
   tux
